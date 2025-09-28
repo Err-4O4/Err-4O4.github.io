@@ -5,8 +5,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="/Err-4O4/Err-4O4.github.io.git/2025/09/27/hello-world/"/>
-    <url>/Err-4O4/Err-4O4.github.io.git/2025/09/27/hello-world/</url>
+    <link href="/2025/09/27/hello-world/"/>
+    <url>/2025/09/27/hello-world/</url>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -18,8 +18,8 @@
   
   <entry>
     <title>文章标题</title>
-    <link href="/Err-4O4/Err-4O4.github.io.git/2019/10/10/fliter%E6%9D%83%E9%99%90%E7%BB%95%E8%BF%87%E6%BC%8F%E6%B4%9E/"/>
-    <url>/Err-4O4/Err-4O4.github.io.git/2019/10/10/fliter%E6%9D%83%E9%99%90%E7%BB%95%E8%BF%87%E6%BC%8F%E6%B4%9E/</url>
+    <link href="/2019/10/10/fliter%E6%9D%83%E9%99%90%E7%BB%95%E8%BF%87%E6%BC%8F%E6%B4%9E/"/>
+    <url>/2019/10/10/fliter%E6%9D%83%E9%99%90%E7%BB%95%E8%BF%87%E6%BC%8F%E6%B4%9E/</url>
     
     <content type="html"><![CDATA[<h1 id="fliter权限绕过漏洞"><a href="#fliter权限绕过漏洞" class="headerlink" title="fliter权限绕过漏洞"></a>fliter权限绕过漏洞</h1><p>原理简单来说就是访问白名单目录login.html，然后通过…&#x2F;回到正常目录下,再访问flag.html即可进入到falg页面，这题没有.&#x2F;过滤，所以用bp抓包简单构造一下get头就行了</p><p><a href="https://zhuanlan.zhihu.com/p/593376086">https://zhuanlan.zhihu.com/p/593376086</a></p><p>tetst</p>]]></content>
     
