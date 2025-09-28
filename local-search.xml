@@ -21,7 +21,7 @@
     <link href="/2019/10/10/fliter%E6%9D%83%E9%99%90%E7%BB%95%E8%BF%87%E6%BC%8F%E6%B4%9E/"/>
     <url>/2019/10/10/fliter%E6%9D%83%E9%99%90%E7%BB%95%E8%BF%87%E6%BC%8F%E6%B4%9E/</url>
     
-    <content type="html"><![CDATA[<h1 id="fliter权限绕过漏洞"><a href="#fliter权限绕过漏洞" class="headerlink" title="fliter权限绕过漏洞"></a>fliter权限绕过漏洞</h1><p>原理简单来说就是访问白名单目录login.html，然后通过…&#x2F;回到正常目录下,再访问flag.html即可进入到falg页面，这题没有.&#x2F;过滤，所以用bp抓包简单构造一下get头就行了</p><p><a href="https://zhuanlan.zhihu.com/p/593376086">https://zhuanlan.zhihu.com/p/593376086</a></p><p>tetst</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="fliter权限绕过漏洞"><a href="#fliter权限绕过漏洞" class="headerlink" title="fliter权限绕过漏洞"></a>fliter权限绕过漏洞</h1><p>原理简单来说就是访问白名单目录login.html，然后通过…&#x2F;回到正常目录下,再访问flag.html即可进入到falg页面，这题没有.&#x2F;过滤，所以用bp抓包简单构造一下get头就行了</p><p><a href="https://zhuanlan.zhihu.com/p/593376086">https://zhuanlan.zhihu.com/p/593376086</a></p><p>1.49</p>]]></content>
     
     
     <categories>
